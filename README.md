@@ -264,19 +264,9 @@ https://shop-sphere-backend-sooty.vercel.app
 
 ## 📸 Screenshots
 
-Screenshots of the ShopSphere application can be added here.
+### 🏠 Home Page
 
-Recommended screenshots:
-
-* Home page
-* Products page
-* Product details
-* Cart
-* Wishlist
-* Checkout
-* Admin login
-* Admin dashboard
-
+![ShopSphere Home Page](screenshots/Home.png)
 ---
 
 ## 🔒 Security
