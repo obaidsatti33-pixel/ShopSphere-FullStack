@@ -155,7 +155,7 @@ function App() {
 
   useEffect(() => {
 
-    fetch("http://localhost:3001/api/products")
+    fetch(`${import.meta.env.VITE_API_URL}/api/products`)
 
       .then((response) => {
 
